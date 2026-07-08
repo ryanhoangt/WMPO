@@ -4,10 +4,11 @@ cython==0.29.36
 debugpy 
 dill 
 draccus 
-egl_probe 
-GPUtil 
-h5py 
-hydra-core 
+# egl_probe 
+# GPUtil 
+h5py
+huggingface-hub<1.0
+hydra-core
 imageio[ffmpeg] 
 json_numpy 
 jsonlines 
@@ -42,4 +43,4 @@ opencv-python
 webdataset 
 xformers==v0.0.28.post3 
 diffusers==0.33.0
-flash-attn==2.5.5
+# flash-attn==2.5.5

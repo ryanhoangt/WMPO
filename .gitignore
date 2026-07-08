@@ -9,3 +9,5 @@ __pycache__
 
 !/dependencies/openvla-oft/
 !/dependencies/opensora/
+
+*.egg-info/

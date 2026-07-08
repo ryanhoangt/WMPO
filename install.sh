@@ -9,7 +9,7 @@ pip install -v -e .
 cd ..
 
 cd openvla-oft
-bash ./install_mujoco.sh
+bash ./install_mujoco.sh # TODO: not done yet!
 pip install --no-deps -e .
 pip install --no-deps git+https://github.com/moojink/dlimp_openvla
 pip install --no-deps "git+https://github.com/moojink/transformers-openvla-oft.git"
