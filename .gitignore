@@ -11,3 +11,5 @@ __pycache__
 !/dependencies/opensora/
 
 *.egg-info/
+**/checkpoint_files/**
+align.json
